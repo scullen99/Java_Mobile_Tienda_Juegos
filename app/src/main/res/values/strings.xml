@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">TIENDA DE VIDEOJUEGOS</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_tab">Inicio</string>
+    <string name="ps4_tab">PS4</string>
+    <string name="xbox_tab">Xbox</string>
+    <string name="ofertas_tab">Oferta</string>
+    <string name="carrito_tab">Carrito</string>
+    <string name="app_web">www.tiendavideojuegos.com</string>
+    <string name="nd_home">Inicio</string>
+    <string name="nd_calendar">Calendario Lanzamientos</string>
+    <string name="nd_new">Novedades</string>
+    <string name="nd_games">Juegos</string>
+    <string name="nd_merchandising">Merchandising</string>
+    <string name="nd_supportTitle">Soporte</string>
+    <string name="nd_contact">Contacto</string>
+    <string name="nd_help">¿Donde estamos?</string>
+    <!--
+   TODO: Before you run your application, you need a Google Maps API key.
+
+   To get one, follow this link, follow the directions and press "Create" at the end:
+
+   https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=41:C1:E6:41:CB:9F:64:46:B0:9A:05:4B:4B:7B:84:E2:03:DE:74:89%3Bcom.example.pruebamaps
+
+   You can also add your credentials to an existing key, using these values:
+
+   Package name:
+   com.example.pruebamaps
+
+   SHA-1 certificate fingerprint:
+   41:C1:E6:41:CB:9F:64:46:B0:9A:05:4B:4B:7B:84:E2:03:DE:74:89
+
+   Alternatively, follow the directions here:
+   https://developers.google.com/maps/documentation/android/start#get-key
+
+   Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+   string in this file.
+   -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCUaXRYUJp-gQT4frWHFbNoq4eAE3-tqeU</string>
+
+
+</resources>
